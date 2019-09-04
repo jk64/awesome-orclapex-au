@@ -27,7 +27,7 @@ These Aussie feeds regularly tweet about APEX. Please use hashtag #orclapex :)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome because this page is not okker enough yet! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
