@@ -21,4 +21,4 @@ Contributions welcome because this page is not okker enough yet! Read the [contr
 
 ## License
 
-![CC0](image/public-domain)
+![CC0](image/public-domain.svg)
