@@ -7,23 +7,13 @@
 
 > Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under
 
-## Contents
+## Blogs and Twitter
 
-- [Blogs](#blogs)
-- [Twitter](#twitter)
+These Aussie feeds regularly write about APEX. On twitter please use hashtag #orclapex :)
 
-## Blogs
-
-- [grassroots-oracle.com](http://www.grassroots-oracle.com) - by Scott Wesley
-- [Jeff Kemp on Oracle](https://jeffkemponoracle.com) - by Jeffrey Kemp
-- [Oracle APEX Tips](https://apextips.blogspot.com) - by Trent Schafer
-
-## Twitter
-
-These Aussie feeds regularly tweet about APEX. Please use hashtag #orclapex :)
-
-- [@jeffreykemp](https://twitter.com/jeffreykemp) - Jeffrey Kemp
-- [@swesley_perth](https://twitter.com/swesley_perth) - Scott Wesley
+- [grassroots-oracle.com](http://www.grassroots-oracle.com) - by Scott Wesley [@swesley_perth](https://twitter.com/swesley_perth)
+- [Jeff Kemp on Oracle](https://jeffkemponoracle.com) - by Jeffrey Kemp [@jeffreykemp](https://twitter.com/jeffreykemp)
+- [Oracle APEX Tips](https://apextips.blogspot.com) - by Trent Schafer [@trentschafer](https://twitter.com/trentschafer)
 
 ## Contribute
 
