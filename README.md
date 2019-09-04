@@ -1,9 +1,9 @@
 # Awesome Oracle APEX (Application Express) in Australia!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
-[![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) ![Australia](australia-flag-waving-icon-64.png)
+[![Awesome](image/awesome.svg)](https://github.com/sindresorhus/awesome) [![APEX Community](image/apex-community.svg)](https://github.com/Dani3lSun/apex-github-badges)
+[![APEX Built with Love](image/apex-built-with-love.svg)](https://github.com/Dani3lSun/apex-github-badges) ![Australia](image/australia-flag-waving-icon-64.png)
 
-[<img src="https://rawgit.com/Dani3lSun/awesome-orclapex/master/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
+[<img src="image/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
 
 > Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under
 
@@ -21,4 +21,4 @@ Contributions welcome because this page is not okker enough yet! Read the [contr
 
 ## License
 
-![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
+![CC0](image/public-domain)
