@@ -5,7 +5,7 @@
 
 [<img src="image/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
 
-> Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under
+Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under
 
 ## Local User Group
 
@@ -38,4 +38,4 @@ I published this page to promote Oracle Application Express as a development pla
 
 ---
 
-> Inspired by [awesome-orclapex](https://github.com/Dani3lSun/awesome-orclapex)
+Inspired by [awesome-orclapex](https://github.com/Dani3lSun/awesome-orclapex)
