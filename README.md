@@ -21,7 +21,7 @@ Contributions welcome because this page is not okker enough yet! Read the [contr
 
 ## Why?
 
-I put this site up to promote Oracle Application Express as a development platform worth trying and using for all enterprises in Australia; to showcase developers in Australia who are publishing content about APEX; and basically because I saw the domain names oracleapex.com.au and orclapex.com.au were available and wanted to put them to good use :)
+I published this page to promote Oracle Application Express as a development platform worth trying and using for serious web-based, database-backed applications for all enterprises in Australia; to showcase developers in Australia who are publishing content about it; and basically because I saw the domain names oracleapex.com.au and orclapex.com.au were available and wanted to put them to good use :)
 
 ## License
 
