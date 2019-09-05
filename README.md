@@ -7,6 +7,10 @@
 
 > Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under
 
+## Local User Group
+
+- [Australian Oracle User Group (AUSOUG)](https://ausoug.org.au) [@ausoug](https://twitter.com/ausoug)
+
 ## Blogs and Twitter
 
 These Aussie feeds regularly write about APEX. On twitter please use hashtag #orclapex :)
