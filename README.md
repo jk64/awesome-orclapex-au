@@ -2,10 +2,11 @@
 [![APEX Built with Love](image/apex-built-with-love.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 [<img src="image/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
+[<img src="image/australia-flag-waving-icon-64.png" align="right">]()
 
-Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under ![Australia](image/australia-flag-waving-icon-64.png)
+Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under
 
-## Local User Group
+## User Group
 
 - **Australian Oracle User Group** - [AUSOUG](https://ausoug.org.au) [@ausoug](https://twitter.com/ausoug)
 
