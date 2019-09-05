@@ -35,3 +35,7 @@ I published this page to promote Oracle Application Express as a development pla
 ## License
 
 ![CC0](image/public-domain.svg)
+
+---
+
+> Inspired by [awesome-orclapex](https://github.com/Dani3lSun/awesome-orclapex)
