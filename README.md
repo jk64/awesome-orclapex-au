@@ -1,11 +1,11 @@
 # Awesome Oracle APEX (Application Express) in Australia!
 
 [![Awesome](image/awesome.svg)](https://github.com/sindresorhus/awesome) [![APEX Community](image/apex-community.svg)](https://github.com/Dani3lSun/apex-github-badges)
-[![APEX Built with Love](image/apex-built-with-love.svg)](https://github.com/Dani3lSun/apex-github-badges) ![Australia](image/australia-flag-waving-icon-64.png)
+[![APEX Built with Love](image/apex-built-with-love.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
 [<img src="image/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
 
-Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under
+Useful resources for [Oracle Application Express](https://apex.oracle.com) in the Land Down Under ![Australia](image/australia-flag-waving-icon-64.png)
 
 ## Local User Group
 
