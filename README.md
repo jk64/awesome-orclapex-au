@@ -28,7 +28,7 @@ These Aussie feeds regularly write about APEX. On twitter please use hashtag #or
 
 Contributions welcome because this page is not okker enough yet! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## Why?
+### Why?
 
 I published this page to promote Oracle Application Express as a development platform worth trying and using for serious web-based, database-backed applications for all enterprises in Australia; to showcase developers in Australia who are publishing content about it; and basically because I saw the domain names oracleapex.com.au and orclapex.com.au were available and wanted to put them to good use :)
 
