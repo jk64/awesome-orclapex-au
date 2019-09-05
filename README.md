@@ -16,6 +16,10 @@ These Aussie feeds regularly write about APEX. On twitter please use hashtag #or
 - [Jeff Kemp on Oracle](https://jeffkemponoracle.com) - by Jeffrey Kemp [@jeffreykemp](https://twitter.com/jeffreykemp)
 - [Oracle APEX Tips](https://apextips.blogspot.com) - by Trent Schafer [@trentschafer](https://twitter.com/trentschafer)
 
+## Events
+
+- [What's On - AUSOUG](https://www.ausoug.org.au/whats-on/) - Australian Oracle User Group
+
 ## Contribute
 
 Contributions welcome because this page is not okker enough yet! Read the [contribution guidelines](CONTRIBUTING.md) first.
