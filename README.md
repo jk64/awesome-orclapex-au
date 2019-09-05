@@ -9,13 +9,13 @@
 
 ## Local User Group
 
-- [Australian Oracle User Group (AUSOUG)](https://ausoug.org.au) [@ausoug](https://twitter.com/ausoug)
+- **Australian Oracle User Group** - [AUSOUG](https://ausoug.org.au) [@ausoug](https://twitter.com/ausoug)
 
 ## Blogs and Twitter
 
 These Aussie feeds regularly write about APEX. On twitter please use hashtag #orclapex :)
 
-- [APEX stuff in one place](https://lschilde.blogspot.com/) -  by Lino Schildenfeld [@LinoSchilde](https://twitter.com/LinoSchilde)
+- [APEX stuff in one place](https://lschilde.blogspot.com/) - by Lino Schildenfeld [@LinoSchilde](https://twitter.com/LinoSchilde)
 - [grassroots-oracle.com](http://www.grassroots-oracle.com) - by Scott Wesley [@swesley_perth](https://twitter.com/swesley_perth)
 - [Jeff Kemp on Oracle](https://jeffkemponoracle.com) - by Jeffrey Kemp [@jeffreykemp](https://twitter.com/jeffreykemp)
 - [Oracle APEX Tips](https://apextips.blogspot.com) - by Trent Schafer [@trentschafer](https://twitter.com/trentschafer)
