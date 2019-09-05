@@ -1,5 +1,3 @@
-# Awesome Oracle APEX (Application Express) in Australia!
-
 [![Awesome](image/awesome.svg)](https://github.com/sindresorhus/awesome) [![APEX Community](image/apex-community.svg)](https://github.com/Dani3lSun/apex-github-badges)
 [![APEX Built with Love](image/apex-built-with-love.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
