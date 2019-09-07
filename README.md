@@ -23,7 +23,7 @@ These Aussie feeds regularly write about APEX. On twitter please use hashtag #or
 
 - [What's On - AUSOUG](https://www.ausoug.org.au/whats-on/) - Australian Oracle User Group
 
-## Developers in Australia
+## Developers & Companies
 
 - [apex.world](https://apex.world) - go to **Community** > **Members** > select **Australia** from the list
 
