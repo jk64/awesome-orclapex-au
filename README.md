@@ -23,13 +23,17 @@ These Aussie feeds regularly write about APEX. On twitter please use hashtag #or
 
 - [What's On - AUSOUG](https://www.ausoug.org.au/whats-on/) - Australian Oracle User Group
 
+## Developers in Australia
+
+- [apex.world](https://apex.world) - go to **Community** > **Members** > select **Australia** from the list
+
 ## Contribute
 
-Contributions welcome because this page is not okker enough yet! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome because this page is not okker enough yet! Read the [contribution guidelines](CONTRIBUTING.md) and send a pull request on [GitHub](https://github.com/jk64/awesome-orclapex-au).
 
-### Why?
+##### Why?
 
-I published this page to promote Oracle Application Express as a development platform worth trying and using for serious web-based, database-backed applications for all enterprises in Australia; to showcase developers in Australia who are publishing content about it; and basically because I saw the domain names oracleapex.com.au and orclapex.com.au were available and wanted to put them to good use :)
+<small>I published this page to promote Oracle Application Express as a development platform worth trying and using for serious web-based, database-backed applications for all enterprises in Australia; to showcase developers in Australia who are publishing content about it; and basically because I saw the domain names oracleapex.com.au and orclapex.com.au were available and wanted to put them to good use :)</small>
 
 ## License
 
